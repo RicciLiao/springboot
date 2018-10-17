@@ -10,3 +10,8 @@ public class BizDog implements Animal {
         System.out.println("狗【"+BizDog.class.getSimpleName()+"】是用来看门的。。。");
     }
 }
+
+
+
+
+

@@ -13,6 +13,5 @@ public class AOPTest {
         proxy.sayHi("RicciLiao");
         System.out.println("################ when name is null ################");
         proxy.sayHello(null);
-
     }
 }
